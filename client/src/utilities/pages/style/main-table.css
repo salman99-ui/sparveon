@@ -1,0 +1,15 @@
+.main-table{
+    padding: 20px 10%;
+    margin: 0 auto;
+}
+
+.table-title{
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.table-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
